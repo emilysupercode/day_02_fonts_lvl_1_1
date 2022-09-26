@@ -1,0 +1,37 @@
+h2 {
+    text-align: center;
+    font-size: 48px;
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 75px;
+    color: white;
+}
+
+p {
+    color: #333;
+    font-size: 20px;
+}
+
+li {
+    color: #777;
+    font-size: 20px;
+}
+
+li h3 {
+    text-decoration-line: overline;
+    text-align: left;
+}
+
+li h4 {
+    text-decoration-line: line-through;
+    text-align: center;
+}
+
+li h5 {
+    text-decoration-line: underline;
+    text-align: right;
+}
+
+p {
+    padding-left: 40px;
+}
